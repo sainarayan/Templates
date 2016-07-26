@@ -3,16 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "lkrishnastore1"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Passw@rd!!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "lkrishna2349"
+    },
+    "location":{
+      "value": "west US"
+    },
+    "sizeOfDiskInGB":{
+      "value":"20"
     }
   }
 }
